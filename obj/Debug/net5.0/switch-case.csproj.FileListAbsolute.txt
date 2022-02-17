@@ -1,0 +1,15 @@
+/Users/ecekokyar/Desktop/Pratikler/switch-case/bin/Debug/net5.0/switch-case.deps.json
+/Users/ecekokyar/Desktop/Pratikler/switch-case/bin/Debug/net5.0/switch-case.runtimeconfig.json
+/Users/ecekokyar/Desktop/Pratikler/switch-case/bin/Debug/net5.0/switch-case.runtimeconfig.dev.json
+/Users/ecekokyar/Desktop/Pratikler/switch-case/bin/Debug/net5.0/switch-case.dll
+/Users/ecekokyar/Desktop/Pratikler/switch-case/bin/Debug/net5.0/ref/switch-case.dll
+/Users/ecekokyar/Desktop/Pratikler/switch-case/bin/Debug/net5.0/switch-case.pdb
+/Users/ecekokyar/Desktop/Pratikler/switch-case/obj/Debug/net5.0/switch-case.csproj.AssemblyReference.cache
+/Users/ecekokyar/Desktop/Pratikler/switch-case/obj/Debug/net5.0/switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecekokyar/Desktop/Pratikler/switch-case/obj/Debug/net5.0/switch-case.AssemblyInfoInputs.cache
+/Users/ecekokyar/Desktop/Pratikler/switch-case/obj/Debug/net5.0/switch-case.AssemblyInfo.cs
+/Users/ecekokyar/Desktop/Pratikler/switch-case/obj/Debug/net5.0/switch-case.csproj.CoreCompileInputs.cache
+/Users/ecekokyar/Desktop/Pratikler/switch-case/obj/Debug/net5.0/switch-case.dll
+/Users/ecekokyar/Desktop/Pratikler/switch-case/obj/Debug/net5.0/ref/switch-case.dll
+/Users/ecekokyar/Desktop/Pratikler/switch-case/obj/Debug/net5.0/switch-case.pdb
+/Users/ecekokyar/Desktop/Pratikler/switch-case/obj/Debug/net5.0/switch-case.genruntimeconfig.cache
